@@ -25,8 +25,6 @@ this project is to take the former lab of building a webpage and add it to other
 
 		</p>
 
-///:Express yourself!
-
 		<h3> Spring of 2022</h3>
 		<p>
 		Coursework to complete are as follows:
